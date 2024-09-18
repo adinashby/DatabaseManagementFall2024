@@ -1,6 +1,6 @@
 # Lecture 1: Table and Query
 
-#### **Topic 1: What is a Table and Query**
+### **Topic 1: What is a Table and Query**
 
 1. **Introduction to Microsoft Access**
    - **Overview of Database Management Systems (DBMS):**  
@@ -49,7 +49,7 @@
 
 ---
 
-#### **Topic 2: Fields and Primary Key**
+### **Topic 2: Fields and Primary Key**
 
 1. **Introduction to Fields in Microsoft Access**
    - **What is a Field?:**  

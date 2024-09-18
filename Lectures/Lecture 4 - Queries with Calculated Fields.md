@@ -1,6 +1,6 @@
 # Lecture 4: Queries with Calculated Fields
 
-#### **Topic 1: Selection Queries with Criteria, Calculated Fields, Grouping Functions, etc.**
+### **Topic 1: Selection Queries with Criteria, Calculated Fields, Grouping Functions, etc.**
 
 1. **Introduction to Selection Queries**
    - **What is a Selection Query?:**  
@@ -56,7 +56,7 @@
 
 ---
 
-#### **Topic 2: How to Write Simple Regular Expressions for Queries**
+### **Topic 2: How to Write Simple Regular Expressions for Queries**
 
 1. **Introduction to Regular Expressions (RegEx)**
    - **What is a Regular Expression?:**  

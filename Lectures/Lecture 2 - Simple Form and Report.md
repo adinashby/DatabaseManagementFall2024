@@ -1,10 +1,6 @@
 # Lecture 2: Simple Form and Report
 
-### Microsoft Access Lecture Notes - Detailed Descriptions
-
----
-
-#### **Topic 1: How to Create a Simple Form**
+### **Topic 1: How to Create a Simple Form**
 
 1. **Introduction to Forms in Microsoft Access**
    - **What is a Form?:**  
@@ -50,7 +46,7 @@
 
 ---
 
-#### **Topic 2: What is a Report and How to Get It from Your Database**
+### **Topic 2: What is a Report and How to Get It from Your Database**
 
 1. **Introduction to Reports in Microsoft Access**
    - **What is a Report?:**  

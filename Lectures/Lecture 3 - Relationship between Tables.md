@@ -1,6 +1,6 @@
 # Lecture 3: Relationship between tables
 
-#### **Topic: Relationship Between Tables**
+### **Topic: Relationship Between Tables**
 
 1. **Introduction to Relational Databases**
    - **What is a Relational Database?:**  
